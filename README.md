@@ -1,0 +1,1 @@
+## Playground to host static html pages
